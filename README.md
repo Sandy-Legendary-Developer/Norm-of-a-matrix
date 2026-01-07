@@ -37,16 +37,21 @@ print(norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
+<img width="1009" height="613" alt="Screenshot 2026-01-07 150328" src="https://github.com/user-attachments/assets/be9eb789-03b3-4c2b-ada8-63b3352d681e" />
+
 <br>
 <br>
 
 ### 2-Norm of a Matrix
+<img width="607" height="754" alt="Screenshot 2026-01-07 150346" src="https://github.com/user-attachments/assets/4c850770-8be2-4ab5-88ca-f767f3135faf" />
+
 <br>
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
+<img width="818" height="537" alt="Screenshot 2026-01-07 150357" src="https://github.com/user-attachments/assets/61b55a57-9f24-4fc0-bee9-6575b4a2ef0d" />
+
 <br>
 <br>
 <br>
